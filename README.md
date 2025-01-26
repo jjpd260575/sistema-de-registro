@@ -17,3 +17,8 @@
 - Aprendimos a enviar nuestros cambios/archivos locales con el git push;
 - Vimos cómo verificar los cambios dentro de un archivo a través del git diff en la consola y en GitHub;
 - Aprendimos a restaurar archivos y el proyecto, volviendo a un estado anterior a través de git restore;
+- branch
+- ¿Qué es?
+- Cómo crear una nueva branch llamada ‘’desarrollo’’;
+- Cómo navegar entre la branch principal ‘’main’’ y la branch “desarrollo”a través del comando git switch;
+- Cómo enviar todas las modificaciones hechas en la branch “desarrollo” a la branch principal “main” con el merge.
